@@ -15,6 +15,7 @@ switch (pick){
 }
 let day = "monday"
 //a
+//a
 switch (day){
     case "monday":
         console.log("робочий день ")
